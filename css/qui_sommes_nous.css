@@ -1,0 +1,39 @@
+.page{
+    background-color: aliceblue;
+}
+.certificats{
+    background-color: azure;
+}
+
+.info_plateforme{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.info_gauche{padding-right: 100px;}
+.photo{
+    display: flex;
+    margin: 10px;
+    flex-wrap: wrap;
+}
+.photo1{padding-top: 100px; padding-right: 100px;}
+.photo2{padding-top: 100px; padding-right: 100px;}
+.photo3{padding-top: 100px; padding-right: 100px;}
+.photo4{padding-top: 100px; padding-right: 100px;}
+.photo5{padding-top: 100px; padding-right: 100px;}
+.photo6{padding-top: 100px; padding-right: 100px;}
+.photo7{padding-top: 100px; padding-right: 100px;}
+.photo8{padding-top: 100px; padding-right: 100px;}
+.photo9{padding-top: 100px; padding-right: 100px;}
+.photo10{padding-top: 100px; padding-right: 100px;}
+.photo11{padding-top: 100px; padding-right: 100px;}
+.photo12{padding-top: 100px; padding-right: 100px;}
+.photo13{padding-top: 100px; padding-right: 100px;}
+.photo14{padding-top: 100px; padding-left: 100px;}
+.nos_certifications{
+    display: flex;
+    flex-wrap: wrap;
+}
+.certif1{padding-right: 100px;}
+.certif2{padding-right: 100px;}
+.certif3{padding-right: 100px;}
